@@ -1,0 +1,3 @@
+C:/GIT/SISTEMAEASPORTS/cmake-build-debug/CMakeFiles/SISTEMA_EASPORTS.dir
+C:/GIT/SISTEMAEASPORTS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/GIT/SISTEMAEASPORTS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
